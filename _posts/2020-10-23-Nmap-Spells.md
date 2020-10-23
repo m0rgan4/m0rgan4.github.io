@@ -21,7 +21,7 @@ tags:      # TAG names should always be lowercase
 
 `nmap -sU 192.168.0.1`
 
-**XMAS Scan**
+**XMAS Scan (FIN, PSH and URG flags)**
 
 `nmap -sX 192.168.0.1`
 
