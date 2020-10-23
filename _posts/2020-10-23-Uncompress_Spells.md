@@ -10,3 +10,5 @@ tags: bash     # TAG names should always be lowercase
 `tar -xvf archivo.tar`
 
 `tar -zxvf archivo.tgz`
+
+`tar -zxvf archivo.tar.gz`
