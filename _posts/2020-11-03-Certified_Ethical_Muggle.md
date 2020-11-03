@@ -1078,6 +1078,28 @@ Wapiti
 
 &nbsp;
 
+## 15. SQL INJECTION
+
+**SQL Injection Tools**
+
+SQL Power Injector
+
+[http://www.sqlpowerinjector.com/](http://www.sqlpowerinjector.com/)
+
+sqlmap
+
+[http://sqlmap.org/](http://sqlmap.org/)
+
+Mole
+
+[https://sourceforge.net/projects/themole/](https://sourceforge.net/projects/themole/)
+
+jSQL Injection
+
+[https://tools.kali.org/vulnerability-analysis/jsql](https://tools.kali.org/vulnerability-analysis/jsql)
+
+&nbsp;
+
 ## 16. HACKING WIRELESS NETWORKS 
 
 **Wi-Fi Jamming Devices**:
@@ -1328,3 +1350,47 @@ XenMobile
 **Core CloudInspect**
 
 [https://www.coresecurity.com/core-labs/open-source-tools/core-cloudinspect](https://www.coresecurity.com/core-labs/open-source-tools/core-cloudinspect)
+
+&nbsp;
+
+
+## 20. CRYPTOGRAPHY
+
+**Certification Authorities**
+
+Comodo 
+
+[https://www.comodo.com/](https://www.comodo.com/)
+
+IdenTust
+
+[https://www.identrust.com/](https://www.identrust.com/)
+
+GoDaddy
+
+[https://www.godaddy.com/es-es/seguridad-web](https://www.godaddy.com/es-es/seguridad-web)
+
+GlobalSign
+
+[https://www.globalsign.com/es](https://www.globalsign.com/es)
+
+DigiCert
+
+[https://www.digicert.com/es/](https://www.digicert.com/es/)
+
+Verisign
+
+[https://www.verisign.com/](https://www.verisign.com/)
+
+RapidSSL
+
+[https://www.rapidssl.com/](https://www.rapidssl.com/)
+
+&nbsp;
+
+
+**Cryptography Toolkits**
+
+OpenSSL
+
+[https://www.openssl.org/](https://www.openssl.org/)
